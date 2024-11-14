@@ -22,4 +22,4 @@ Shoeniverse is an e-commerce website designed to provide a seamless shopping exp
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/AleoStacy/ShoeNie.git
-   cd shoeniverse
+   cd Shoenie
