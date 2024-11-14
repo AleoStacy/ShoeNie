@@ -7,15 +7,14 @@ Shoeniverse is an e-commerce website designed to provide a seamless shopping exp
 - **Home Page**: Display a list of sneakers with details like price, name, and an image.
 - **Sneaker Details**: View detailed information about each sneaker in a modal.
 - **Cart System**: Add sneakers to a cart, view items, and proceed to checkout.
-- **Customer Reviews**: Users can leave a review with a star rating and view feedback from other customers.
-- **Responsive Design**: Built with Bootstrap to ensure compatibility across various devices.
+- **Customer Reviews**: You are abler to see customer reviews on the page.
+- **Responsive Design**: Built with Taillwind to ensure compatibility across various devices.
   
 ## Tech Stack
 
 - **HTML5**: For structuring the website.
 - **React**: For the User Interface
 - **Tailwind**: For responsive layout and component styling.
-- **FontAwesome**: Used for icons in various parts of the website.
 
 ## How to Use
 
